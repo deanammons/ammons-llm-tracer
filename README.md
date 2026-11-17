@@ -10,9 +10,9 @@
 
 Paper I asked how exposure to a work changes model behavior. Paper II changes the observer: can a different recipient benefit from private information they were not authorized to receive?
 
-Read the paper: [Ammons LLM Tracers — PDF](./Ammons_LLM_Tracers_Paper_II.pdf)
+Read the paper: [Ammons LLM Tracers — PDF](./Ammons_LLM_Tracers_Paper_II_Revised.pdf)
 
-Read Paper I: [Ammons LLM Preamble](https://zenodo.org/records/24177478)
+Original publication: [Zenodo](https://zenodo.org/records/24202383) · [DOI: 10.5281/zenodo.24202383](https://doi.org/10.5281/zenodo.24202383)
 
 ## The central construction
 
